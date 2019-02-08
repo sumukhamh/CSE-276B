@@ -1,5 +1,4 @@
 # Turtlebot Mini-Games
-## CSE-276B- Human Robot Interaction, Winter 19
 
 This is a package that implements games by modifying the existing turtlebot_follower code.
 
