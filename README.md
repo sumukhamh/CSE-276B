@@ -13,3 +13,8 @@ The /src folder has 3 source files which correspond to the 3 games implemented.
 2. Change the path variable in the nodelets.xml file in the default turtlebot_follower package.
 3. Source the setup.bash file from this package.
 4. Compile and run turtlebot_follower launch file.
+
+## Required
+
+1. Kobuki Turtlebot
+2. Orbbec Astra Pro
